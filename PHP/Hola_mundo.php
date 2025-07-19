@@ -11,7 +11,7 @@ echo "entendio?";
 $hola = "hola para las variables es '$' y el nombre osea 'nombre'";
 echo $hola;
 */
-echo "Hola mundo";
+echo "Hola mundo\n";
 /*
 Es un comentario de varias lineas
 es facil
