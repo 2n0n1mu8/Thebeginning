@@ -21,4 +21,7 @@ solo es slash y asterisco
 // Variables 
 
 $my_string = "Hola, soy una cadena de texto";
-echo $my_string;
+$my_string = "Aqui cambio el valor de la cadena de texto";
+echo $my_string . "\n";
+echo gettype($my_string) . "\n"; // Muestra el tipo de dato de la variable
+echo $my_string; // Muestra el contenido de la variable
