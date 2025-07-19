@@ -9,3 +9,10 @@ echo "entendio?";
 
 $hola = "hola para las variables es '$' y el nombre osea 'nombre'";
 echo $hola;
+
+/*
+Es un comentario de varias lineas
+es facil
+solo es slash y asterisco
+*/
+
